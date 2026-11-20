@@ -1,0 +1,18 @@
+FICHIERS PWA - TAROT ENTRE AMIS V37
+
+Placez tous ces fichiers ensemble, à la racine du même dossier :
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- icon-192.png
+- icon-512.png
+- icon-maskable-512.png
+- apple-touch-icon.png
+- favicon.png
+
+Pour GitHub Pages, tous ces fichiers devront ensuite être déposés à la racine du dépôt.
+Ne renommez pas les fichiers, car index.html, le manifeste et le service worker utilisent ces noms exacts.
+
+Les données des parties restent stockées localement dans le navigateur de chaque appareil.
+
+Visual in this package was generated with Microsoft Copilot.
