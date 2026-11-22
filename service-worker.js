@@ -1,4 +1,4 @@
-const CACHE_NAME = "tarot-entre-amis-v42-pwa-1";
+const CACHE_NAME = "tarot-entre-amis-v43-pwa-1";
 const APP_SHELL = [
   "./",
   "./index.html",
